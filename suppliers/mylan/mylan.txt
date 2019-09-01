@@ -1,0 +1,280 @@
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Aciclovir mylan'
+                data-image='./suppliers/mylan/Aciclovir mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Aciclovir mylan.jpg' alt='Aciclovir mylan'>
+              </a> <p>Aciclovir mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Alendronique acid mylan'
+                data-image='./suppliers/mylan/Alendronique acid mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Alendronique acid mylan.jpg' alt='Alendronique acid mylan'>
+              </a> <p>Alendronique acid mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Amikacin inj mylan'
+                data-image='./suppliers/mylan/Amikacin inj mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Amikacin inj mylan.jpg' alt='Amikacin inj mylan'>
+              </a> <p>Amikacin inj mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Amiodarone mylan 200mg-30cpr'
+                data-image='./suppliers/mylan/Amiodarone mylan 200mg-30cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Amiodarone mylan 200mg-30cpr.jpg' alt='Amiodarone mylan 200mg-30cpr'>
+              </a> <p>Amiodarone mylan 200mg-30cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Amlodipine mylan 5mg 30gel'
+                data-image='./suppliers/mylan/Amlodipine mylan 5mg 30gel.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Amlodipine mylan 5mg 30gel.jpg' alt='Amlodipine mylan 5mg 30gel'>
+              </a> <p>Amlodipine mylan 5mg 30gel</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Amoxicilline mylan'
+                data-image='./suppliers/mylan/Amoxicilline mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Amoxicilline mylan.jpg' alt='Amoxicilline mylan'>
+              </a> <p>Amoxicilline mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Amoxicilline-acide-clavulanique mylan 500mg'
+                data-image='./suppliers/mylan/Amoxicilline-acide-clavulanique mylan 500mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Amoxicilline-acide-clavulanique mylan 500mg.jpg' alt='Amoxicilline-acide-clavulanique mylan 500mg'>
+              </a> <p>Amoxicilline-acide-clavulanique mylan 500mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Amoxiclave 500mg'
+                data-image='./suppliers/mylan/Amoxiclave 500mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Amoxiclave 500mg.jpg' alt='Amoxiclave 500mg'>
+              </a> <p>Amoxiclave 500mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Atenolol mylan 50mg'
+                data-image='./suppliers/mylan/Atenolol mylan 50mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Atenolol mylan 50mg.jpg' alt='Atenolol mylan 50mg'>
+              </a> <p>Atenolol mylan 50mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Atrovastatin 20mg mylan'
+                data-image='./suppliers/mylan/Atrovastatin 20mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Atrovastatin 20mg mylan.jpg' alt='Atrovastatin 20mg mylan'>
+              </a> <p>Atrovastatin 20mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Atrovastatin 40mg mylan'
+                data-image='./suppliers/mylan/Atrovastatin 40mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Atrovastatin 40mg mylan.jpg' alt='Atrovastatin 40mg mylan'>
+              </a> <p>Atrovastatin 40mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Bisoprolol 10mg mylan'
+                data-image='./suppliers/mylan/Bisoprolol 10mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Bisoprolol 10mg mylan.jpg' alt='Bisoprolol 10mg mylan'>
+              </a> <p>Bisoprolol 10mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Calcium-vitamine-d3-mylan-500mg'
+                data-image='./suppliers/mylan/Calcium-vitamine-d3-mylan-500mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Calcium-vitamine-d3-mylan-500mg.jpg' alt='Calcium-vitamine-d3-mylan-500mg'>
+              </a> <p>Calcium-vitamine-d3-mylan-500mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Captopril 25mg mylan'
+                data-image='./suppliers/mylan/Captopril 25mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Captopril 25mg mylan.jpg' alt='Captopril 25mg mylan'>
+              </a> <p>Captopril 25mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Captopril 50mg mylan'
+                data-image='./suppliers/mylan/Captopril 50mg mylan.jpeg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Captopril 50mg mylan.jpeg' alt='Captopril 50mg mylan'>
+              </a> <p>Captopril 50mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Carvedilol 25mg mylan'
+                data-image='./suppliers/mylan/Carvedilol 25mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Carvedilol 25mg mylan.jpg' alt='Carvedilol 25mg mylan'>
+              </a> <p>Carvedilol 25mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Carvedilol 6.25mg mylan'
+                data-image='./suppliers/mylan/Carvedilol 6.25mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Carvedilol 6.25mg mylan.jpg' alt='Carvedilol 6.25mg mylan'>
+              </a> <p>Carvedilol 6.25mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Celiprolol-mylan-200mg'
+                data-image='./suppliers/mylan/Celiprolol-mylan-200mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Celiprolol-mylan-200mg.jpg' alt='Celiprolol-mylan-200mg'>
+              </a> <p>Celiprolol-mylan-200mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Diclofenac  mylan 50mg'
+                data-image='./suppliers/mylan/Diclofenac  mylan 50mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Diclofenac  mylan 50mg.jpg' alt='Diclofenac  mylan 50mg'>
+              </a> <p>Diclofenac  mylan 50mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Diclofenac cream mylan'
+                data-image='./suppliers/mylan/Diclofenac cream mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Diclofenac cream mylan.jpg' alt='Diclofenac cream mylan'>
+              </a> <p>Diclofenac cream mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Diltiazem mylan 90mg'
+                data-image='./suppliers/mylan/Diltiazem mylan 90mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Diltiazem mylan 90mg.jpg' alt='Diltiazem mylan 90mg'>
+              </a> <p>Diltiazem mylan 90mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Enalapril hydrochlorothiazide mylan 20mg'
+                data-image='./suppliers/mylan/Enalapril hydrochlorothiazide mylan 20mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Enalapril hydrochlorothiazide mylan 20mg.jpg' alt='Enalapril hydrochlorothiazide mylan 20mg'>
+              </a> <p>Enalapril hydrochlorothiazide mylan 20mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Enalapril-mylan-20mg-28cpr'
+                data-image='./suppliers/mylan/Enalapril-mylan-20mg-28cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Enalapril-mylan-20mg-28cpr.jpg' alt='Enalapril-mylan-20mg-28cpr'>
+              </a> <p>Enalapril-mylan-20mg-28cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Enalapril-mylan-5mg-28cpr'
+                data-image='./suppliers/mylan/Enalapril-mylan-5mg-28cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Enalapril-mylan-5mg-28cpr.jpg' alt='Enalapril-mylan-5mg-28cpr'>
+              </a> <p>Enalapril-mylan-5mg-28cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Entacapone mylan 200mg'
+                data-image='./suppliers/mylan/Entacapone mylan 200mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Entacapone mylan 200mg.jpg' alt='Entacapone mylan 200mg'>
+              </a> <p>Entacapone mylan 200mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Fluoxetine mylan 20mg'
+                data-image='./suppliers/mylan/Fluoxetine mylan 20mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Fluoxetine mylan 20mg.jpg' alt='Fluoxetine mylan 20mg'>
+              </a> <p>Fluoxetine mylan 20mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Fosinopril mylan-20mg'
+                data-image='./suppliers/mylan/Fosinopril mylan-20mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Fosinopril mylan-20mg.jpg' alt='Fosinopril mylan-20mg'>
+              </a> <p>Fosinopril mylan-20mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Furosemide-mylan-20mg-30cpr'
+                data-image='./suppliers/mylan/Furosemide-mylan-20mg-30cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Furosemide-mylan-20mg-30cpr.jpg' alt='Furosemide-mylan-20mg-30cpr'>
+              </a> <p>Furosemide-mylan-20mg-30cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Furosemide-mylan-40mg-30cpr'
+                data-image='./suppliers/mylan/Furosemide-mylan-40mg-30cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Furosemide-mylan-40mg-30cpr.jpg' alt='Furosemide-mylan-40mg-30cpr'>
+              </a> <p>Furosemide-mylan-40mg-30cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Hexamidine-mylan'
+                data-image='./suppliers/mylan/Hexamidine-mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Hexamidine-mylan.jpg' alt='Hexamidine-mylan'>
+              </a> <p>Hexamidine-mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Ibuprofene 200mg mylan'
+                data-image='./suppliers/mylan/Ibuprofene 200mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Ibuprofene 200mg mylan.jpg' alt='Ibuprofene 200mg mylan'>
+              </a> <p>Ibuprofene 200mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Ibuprofene 200ml mylan'
+                data-image='./suppliers/mylan/Ibuprofene 200ml mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Ibuprofene 200ml mylan.jpg' alt='Ibuprofene 200ml mylan'>
+              </a> <p>Ibuprofene 200ml mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Ibuprofene-mylan 400mg'
+                data-image='./suppliers/mylan/Ibuprofene-mylan 400mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Ibuprofene-mylan 400mg.jpg' alt='Ibuprofene-mylan 400mg'>
+              </a> <p>Ibuprofene-mylan 400mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Irbesartan-mylan-75mg-30cpr'
+                data-image='./suppliers/mylan/Irbesartan-mylan-75mg-30cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Irbesartan-mylan-75mg-30cpr.jpg' alt='Irbesartan-mylan-75mg-30cpr'>
+              </a> <p>Irbesartan-mylan-75mg-30cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Ketoconazole mylan cream'
+                data-image='./suppliers/mylan/Ketoconazole mylan cream.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Ketoconazole mylan cream.jpg' alt='Ketoconazole mylan cream'>
+              </a> <p>Ketoconazole mylan cream</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Lactulose mylan'
+                data-image='./suppliers/mylan/Lactulose mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Lactulose mylan.jpg' alt='Lactulose mylan'>
+              </a> <p>Lactulose mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Lercanidipine-mylan-10mg-30cpr'
+                data-image='./suppliers/mylan/Lercanidipine-mylan-10mg-30cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Lercanidipine-mylan-10mg-30cpr.jpg' alt='Lercanidipine-mylan-10mg-30cpr'>
+              </a> <p>Lercanidipine-mylan-10mg-30cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Lercanidipine-mylan-20mg-30cpr'
+                data-image='./suppliers/mylan/Lercanidipine-mylan-20mg-30cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Lercanidipine-mylan-20mg-30cpr.jpg' alt='Lercanidipine-mylan-20mg-30cpr'>
+              </a> <p>Lercanidipine-mylan-20mg-30cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Lisinopril 5mg mylan'
+                data-image='./suppliers/mylan/Lisinopril 5mg mylan.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Lisinopril 5mg mylan.jpg' alt='Lisinopril 5mg mylan'>
+              </a> <p>Lisinopril 5mg mylan</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Losartan-hydrochlorothiazide-mylan-50mg-125mg-28cpr'
+                data-image='./suppliers/mylan/Losartan-hydrochlorothiazide-mylan-50mg-125mg-28cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Losartan-hydrochlorothiazide-mylan-50mg-125mg-28cpr.jpg' alt='Losartan-hydrochlorothiazide-mylan-50mg-125mg-28cpr'>
+              </a> <p>Losartan-hydrochlorothiazide-mylan-50mg-125mg-28cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Losartan-mylan-50mg-28cpr'
+                data-image='./suppliers/mylan/Losartan-mylan-50mg-28cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Losartan-mylan-50mg-28cpr.jpg' alt='Losartan-mylan-50mg-28cpr'>
+              </a> <p>Losartan-mylan-50mg-28cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Magnesium-vitamine-b6 mylan tab'
+                data-image='./suppliers/mylan/Magnesium-vitamine-b6 mylan tab.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Magnesium-vitamine-b6 mylan tab.jpg' alt='Magnesium-vitamine-b6 mylan tab'>
+              </a> <p>Magnesium-vitamine-b6 mylan tab</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Metformine mylan 500mg'
+                data-image='./suppliers/mylan/Metformine mylan 500mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Metformine mylan 500mg.jpg' alt='Metformine mylan 500mg'>
+              </a> <p>Metformine mylan 500mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Metformine-mylan-850mg-90cpr'
+                data-image='./suppliers/mylan/Metformine-mylan-850mg-90cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Metformine-mylan-850mg-90cpr.jpg' alt='Metformine-mylan-850mg-90cpr'>
+              </a> <p>Metformine-mylan-850mg-90cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Metoclopramide-mylan-10mg-20cpr'
+                data-image='./suppliers/mylan/Metoclopramide-mylan-10mg-20cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Metoclopramide-mylan-10mg-20cpr.jpg' alt='Metoclopramide-mylan-10mg-20cpr'>
+              </a> <p>Metoclopramide-mylan-10mg-20cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Nebivolol-mylan-5mg-30cpr'
+                data-image='./suppliers/mylan/Nebivolol-mylan-5mg-30cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Nebivolol-mylan-5mg-30cpr.jpg' alt='Nebivolol-mylan-5mg-30cpr'>
+              </a> <p>Nebivolol-mylan-5mg-30cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Olanzapine-mylan-10mg-28cpr'
+                data-image='./suppliers/mylan/Olanzapine-mylan-10mg-28cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Olanzapine-mylan-10mg-28cpr.jpg' alt='Olanzapine-mylan-10mg-28cpr'>
+              </a> <p>Olanzapine-mylan-10mg-28cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Olanzapine-mylan-5mg-28cpr'
+                data-image='./suppliers/mylan/Olanzapine-mylan-5mg-28cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Olanzapine-mylan-5mg-28cpr.jpg' alt='Olanzapine-mylan-5mg-28cpr'>
+              </a> <p>Olanzapine-mylan-5mg-28cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Paracetamol-codeine mylan 500mg'
+                data-image='./suppliers/mylan/Paracetamol-codeine mylan 500mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Paracetamol-codeine mylan 500mg.jpg' alt='Paracetamol-codeine mylan 500mg'>
+              </a> <p>Paracetamol-codeine mylan 500mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Prednisolone-mylan-20mg-20cpr'
+                data-image='./suppliers/mylan/Prednisolone-mylan-20mg-20cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Prednisolone-mylan-20mg-20cpr.jpg' alt='Prednisolone-mylan-20mg-20cpr'>
+              </a> <p>Prednisolone-mylan-20mg-20cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Pregabaline 150mg'
+                data-image='./suppliers/mylan/Pregabaline 150mg.jpeg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Pregabaline 150mg.jpeg' alt='Pregabaline 150mg'>
+              </a> <p>Pregabaline 150mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Ramipril mylan 125mg-90cpr'
+                data-image='./suppliers/mylan/Ramipril mylan 125mg-90cpr.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Ramipril mylan 125mg-90cpr.jpg' alt='Ramipril mylan 125mg-90cpr'>
+              </a> <p>Ramipril mylan 125mg-90cpr</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Simavastatin 20mg'
+                data-image='./suppliers/mylan/Simavastatin 20mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Simavastatin 20mg.jpg' alt='Simavastatin 20mg'>
+              </a> <p>Simavastatin 20mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Simvastatin 40mg'
+                data-image='./suppliers/mylan/Simvastatin 40mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Simvastatin 40mg.jpg' alt='Simvastatin 40mg'>
+              </a> <p>Simvastatin 40mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Spironolacton 25mg'
+                data-image='./suppliers/mylan/Spironolacton 25mg.jpg' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Spironolacton 25mg.jpg' alt='Spironolacton 25mg'>
+              </a> <p>Spironolacton 25mg</p></div>
+<div class=' panpharma col-md-4 col-xs-6'>
+              <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Valsartan 30cap'
+                data-image='./suppliers/mylan/Valsartan 30cap.png' data-target='#image-gallery'>
+                <img class='img-thumbnail ' src='./suppliers/mylan/Valsartan 30cap.png' alt='Valsartan 30cap'>
+              </a> <p>Valsartan 30cap</p></div>

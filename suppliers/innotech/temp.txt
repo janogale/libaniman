@@ -1,0 +1,8 @@
+<div class='supp-product innotech col-md-4 col-xs-6'>
+      <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Polygynax vaginal capsules, INNOTECH' data-image='./suppliers/innotech/Polygynax vaginal capsules, INNOTECH.jpg'
+        data-target='#image-gallery'><img class='img-thumbnail ' src='./suppliers/innotech/Polygynax vaginal capsules, INNOTECH.jpg' alt='Polygynax vaginal capsules, INNOTECH'>
+      </a> <p class='py-1 border border-secondary mb-5 rounded bg-info text-white text-center'>Polygynax vaginal capsules, INNOTECH</p></div>
+<div class='supp-product innotech col-md-4 col-xs-6'>
+      <a class='thumbnail' href='#' data-image-id='1' data-toggle='modal' data-title='Tothema ampules INNOTECH' data-image='./suppliers/innotech/Tothema ampules INNOTECH.jpg'
+        data-target='#image-gallery'><img class='img-thumbnail ' src='./suppliers/innotech/Tothema ampules INNOTECH.jpg' alt='Tothema ampules INNOTECH'>
+      </a> <p class='py-1 border border-secondary mb-5 rounded bg-info text-white text-center'>Tothema ampules INNOTECH</p></div>
